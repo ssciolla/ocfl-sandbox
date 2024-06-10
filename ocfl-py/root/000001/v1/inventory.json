@@ -1,0 +1,26 @@
+{
+  "digestAlgorithm": "sha512",
+  "head": "v1",
+  "id": "000001",
+  "manifest": {
+    "1f40fc92da241694750979ee6cf582f2d5d7d28e18335de05abc54d0560e0f5302860c652bf08d560252aa5e74210546f369fbbbce8c12cfc7957b2652fe9a75": [
+      "v1/content/a.txt"
+    ]
+  },
+  "type": "https://ocfl.io/1.0/spec/#inventory",
+  "versions": {
+    "v1": {
+      "created": "2024-06-10T21:25:36.548191Z",
+      "message": "Initial",
+      "state": {
+        "1f40fc92da241694750979ee6cf582f2d5d7d28e18335de05abc54d0560e0f5302860c652bf08d560252aa5e74210546f369fbbbce8c12cfc7957b2652fe9a75": [
+          "a.txt"
+        ]
+      },
+      "user": {
+        "address": "ssciolla@umich.edu",
+        "name": "ssciolla"
+      }
+    }
+  }
+}

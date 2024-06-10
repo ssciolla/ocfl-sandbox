@@ -1,0 +1,2 @@
+ocfl-py==1.3.0
+ocflcore==0.1.0

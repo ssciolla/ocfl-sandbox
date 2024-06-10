@@ -1,0 +1,23 @@
+{
+  "contentDirectory": "content",
+  "digestAlgorithm": "sha512",
+  "fixity": {},
+  "head": "v1",
+  "id": "12345-abcde",
+  "manifest": {
+    "8ef7dc319954f0d8ed13b1da8e744a4e00fad3cf0952a9ee75c51f455769f1b7c09d623b3ec433483d2627b85100485727a4f200a7b75fb7f81a41af451167da": [
+      "v1/content/file.txt"
+    ]
+  },
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "versions": {
+    "v1": {
+      "created": "2024-06-07T20:54:48.806601+00:00",
+      "state": {
+        "8ef7dc319954f0d8ed13b1da8e744a4e00fad3cf0952a9ee75c51f455769f1b7c09d623b3ec433483d2627b85100485727a4f200a7b75fb7f81a41af451167da": [
+          "file.txt"
+        ]
+      }
+    }
+  }
+}
